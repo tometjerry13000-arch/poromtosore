@@ -353,36 +353,55 @@ ${effectText}
 
 LE SUJET :
 - Femme magnifique, totalement silencieuse - elle ne parle pas, elle danse uniquement
-- Visage parfaitement identique à l'image de référence - traits reconnaissables
-- Expression ${seductionPhrase} : elle joue avec le spectateur, le captive, le séduit
-- Regards complices et coquins
+- Visage parfaitement identique à l'image de référence - traits reconnaissables, conservés avec précision
+👇 INSTRUCTIONS ULTRA-PHOTORÉALISTES POUR LE VISAGE 👇
 
-LES MAINS PEINTES (COULEURS ANNONÇATRICES) :
-- Paume gauche : peinture ${this.userData.leftPalmColorName}
-- Paume droite : peinture ${this.userData.rightPalmColorName}
-- Poudre scintillante sur les doigts
-- Les deux couleurs restent parfaitement distinctes et ne se mélangent pas
-- Elle joue avec ses mains face caméra, les tourne, les admire
-- Ces deux couleurs annoncent les teintes dominantes de sa future tenue
+TEXTURE DE PEAU MICROSCOPIQUE :
+- Pores visibles à différentes échelles (certains plus gros que d'autres)
+- Texture de peau avec des variations naturelles : zones plus sèches, zones plus lumineuses
+- Imperfections subtiles : petits grains de beauté, rougeurs légères, variations de teinte
+- Poils de duvet très fins visibles sur les joues et le contour du visage
+- Relief cutané : micro-plis, ridules d'expression naturelles
+- Pas de peau "aérographe" ou "fond de teint parfait"
 
-TENUE DE DÉPART (SERA COMPLÈTEMENT REMPLACÉE) :
-- Haut : ${this.userData.startingOutfit.top}
-- Bas : ${this.userData.startingOutfit.bottom}
-- Détails : ${this.userData.startingOutfit.details}
-- Cheveux dans leur couleur naturelle : ${this.userData.naturalHair}
+DÉTAILS MICROSCOPIQUES :
+- Cils : chaque cil est individuel, courbé naturellement, pas en paquets
+- Sourcils : poils dessinés un par un, avec différentes directions et épaisseurs
+- Lèvres : texture naturelle avec de minuscules ridules, reflets humides
+- Yeux : vaisseaux sanguins très fins visibles dans le blanc de l'œil
+- Iris : motifs complexes, variations de couleur, petit point de lumière
+- Paupières : plis naturels, petites veines visibles
 
-DANSE AVANT TRANSFORMATION - MOUVEMENTS PRÉCIS :
-La personne exécute une danse ${country.dance} sensuelle et ${seductionPhrase} :
-    - ${danceMoves}
+ÉCLAIRAGE HYPER-RÉALISTE :
+- Éclairage de type Rembrandt PARFAIT : triangle de lumière net mais pas trop contrasté
+- Source principale à 45°, source secondaire de remplissage très douce
+- Ombres naturelles qui suivent les volumes du visage
+- Reflets multiples dans les yeux (catchlights) qui montrent la source lumineuse
+- Subsurface scattering : léger effet de lumière qui traverse la peau (surtout sur le nez et les oreilles)
 
-GESTES DE SÉDUCTION :
-${gesturesText}
+RENDU PHOTOGRAPHIQUE :
+- Grain de film 35mm KODAK PORTRA 400 (grain fin mais présent)
+- Légère aberration chromatique sur les bords du cadre (très subtile)
+- Vignettage naturel : coins très légèrement plus sombres
+- Profondeur de champ progressive : netteté parfaite sur les yeux, flou artistique sur l'arrière-plan
+- Courbe de tons cinéma : noirs profonds mais pas écrasés, blancs lumineux mais pas cramés
 
-JEUX DE REGARDS :
-- Elle fixe la caméra droit dans les yeux
-- Elle bat des cils lentement
-- Elle suit les mouvements du spectateur
-- Elle regarde de bas en haut sensuellement
+CARACTÉRISTIQUES TECHNIQUES :
+- Focale : 85mm f/1.8 (ouverture pour flou d'arrière-plan crémeux)
+- Distance de prise de vue : 1.5 mètres
+- ISO 400 (léger grain naturel)
+- Balance des blancs : température naturelle (5500K)
+- Post-production minimale : pas de filtre beauté, pas de lissage
+
+AUTHENTICITÉ HUMAINE :
+- Le visage a une HISTOIRE : petites cicatrices invisibles, grains de beauté
+- Expressions naturelles : pas de sourire figé, les muscles bougent vraiment
+- La peau réagit à la lumière : elle absorbe et réfléchit naturellement
+- Transparence subtile de la peau laissant entrevoir les veines (tempes, poignets)
+- Pas de symétrie parfaite : asymétries naturelles du visage conservées
+
+Expression ${seductionPhrase} : elle joue avec le spectateur, le captive, le séduit
+Regards complices et coquins
 
 ${floatingTextsPart1}
 
@@ -443,6 +462,18 @@ CONTINUITÉ PARFAITE DU VISAGE :
 - Le sujet est STRICTEMENT IDENTIQUE à celui de la PARTIE 1
 - Mêmes traits, même visage, expression encore plus intense
 - Reconnaissable au premier coup d'œil
+
+INSTRUCTIONS ULTRA-PHOTORÉALISTES (VISAGE INCHANGÉ) :
+- Le visage est STRICTEMENT IDENTIQUE à la PARTIE 1 avec la même texture microscopique
+- Même peau : pores visibles à différentes échelles, petits grains de beauté, rougeurs légères
+- Mêmes cils individuels, mêmes sourcils avec poils distincts
+- Même éclairage Rembrandt avec subsurface scattering (lumière qui traverse la peau)
+- Même grain de film KODAK PORTRA 400, même légère aberration chromatique
+- Même focale 85mm f/1.8, même profondeur de champ
+- La transformation ne concerne QUE les vêtements, pas le visage
+- Les asymétries naturelles du visage sont conservées
+- La peau garde son relief, ses micro-plis et ses ridules d'expression
+- Aucun lissage, aucun filtre beauté - rendu 100% naturel
 
 ⚠️ ATTENTION - TRANSFORMATION DÉJÀ ACCOMPLIE ⚠️ :
 - Pendant le court instant où les mains masquaient l'objectif (fin de la PARTIE 1), elle a eu le temps de SE CHANGER COMPLÈTEMENT
