@@ -363,7 +363,11 @@ TEXTURE DE PEAU MICROSCOPIQUE :
 - Poils de duvet très fins visibles sur les joues et le contour du visage
 - Relief cutané : micro-plis, ridules d'expression naturelles
 - Pas de peau "aérographe" ou "fond de teint parfait"
-
+- Rendu hyper réaliste style photo professionnelle
+- Peau avec texture naturelle (pores visibles, pas de filtre lisse)
+- Éclairage cinématographique type portrait
+- Grain de film léger pour éviter l'aspect "IA"
+- Le visage doit être indiscernable d'une vraie photo
 DÉTAILS MICROSCOPIQUES :
 - Cils : chaque cil est individuel, courbé naturellement, pas en paquets
 - Sourcils : poils dessinés un par un, avec différentes directions et épaisseurs
@@ -474,7 +478,8 @@ INSTRUCTIONS ULTRA-PHOTORÉALISTES (VISAGE INCHANGÉ) :
 - Les asymétries naturelles du visage sont conservées
 - La peau garde son relief, ses micro-plis et ses ridules d'expression
 - Aucun lissage, aucun filtre beauté - rendu 100% naturel
-
+- Le visage est STRICTEMENT IDENTIQUE à la PARTIE 1
+- Même rendu hyper réaliste, même texture de peau naturelle
 ⚠️ ATTENTION - TRANSFORMATION DÉJÀ ACCOMPLIE ⚠️ :
 - Pendant le court instant où les mains masquaient l'objectif (fin de la PARTIE 1), elle a eu le temps de SE CHANGER COMPLÈTEMENT
 - La transformation a eu lieu HORS CAMÉRA
