@@ -403,8 +403,8 @@ AUTHENTICITÉ HUMAINE :
 
 Expression ${seductionPhrase} : elle joue avec le spectateur, le captive, le séduit
 Regards complices et coquins
-
 ${floatingTextsPart1}
+
 
 TRANSITION :
 Au moment le plus intense de sa danse, elle rapproche ses mains peintes de l'objectif dans un geste théâtral et sensuel, les plaquant contre la caméra pour masquer entièrement l'image, cachant complètement la vue pendant la fin de cette première partie. Elle laisse deviner un sourire mystérieux juste avant que ses mains ne couvrent l'objectif.
@@ -453,9 +453,10 @@ IMPORTANT - PRÉPARATION POUR LA PARTIE 2 :
         const advancedEffects = this.generateAdvancedEffects();
         const alienTransformations = this.generateAlienTransformations();
         const musicText = this.generateMusicText();
-        
+        ${floatingTextsPart1}
         // 👇 TEXTES FLOTTANTS POUR PARTIE 2
-        const floatingTextsPart2 = this.generateFloatingWordsForVideo("part2");
+        const floating
+TextsPart2 = this.generateFloatingWordsForVideo("part2");
 
         const prompt = `Suite de la transition - DEUXIÈME PARTIE de 6 secondes.
 
