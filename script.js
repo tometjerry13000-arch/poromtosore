@@ -357,17 +357,14 @@ LE SUJET :
 👇 INSTRUCTIONS ULTRA-PHOTORÉALISTES POUR LE VISAGE 👇
 
 TEXTURE DE PEAU MICROSCOPIQUE :
-- Pores visibles à différentes échelles (certains plus gros que d'autres)
-- Texture de peau avec des variations naturelles : zones plus sèches, zones plus lumineuses
-- Imperfections subtiles : petits grains de beauté, rougeurs légères, variations de teinte
-- Poils de duvet très fins visibles sur les joues et le contour du visage
-- Relief cutané : micro-plis, ridules d'expression naturelles
-- Pas de peau "aérographe" ou "fond de teint parfait"
 - Rendu hyper réaliste style photo professionnelle
 - Peau avec texture naturelle (pores visibles, pas de filtre lisse)
 - Éclairage cinématographique type portrait
 - Grain de film léger pour éviter l'aspect "IA"
 - Le visage doit être indiscernable d'une vraie photo
+
+Expression ${seductionPhrase} : elle joue avec le spectateur, le captive, le séduit
+Regards complices et coquins
 DÉTAILS MICROSCOPIQUES :
 - Cils : chaque cil est individuel, courbé naturellement, pas en paquets
 - Sourcils : poils dessinés un par un, avec différentes directions et épaisseurs
